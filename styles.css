@@ -1,0 +1,25 @@
+.forumTitle {
+    text-align: center;
+    margin-top: 75px;
+}
+
+h2, h6 {
+    margin: 20px;   
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    color: #5c616e;
+}
+
+body {
+    background-color: #fefefe;
+}
+
+.forumButton {
+    background-color: #f65868; border-color: #f65868;
+}
+
+.cardBackground {
+    background-color: #7791a1;
+    color: #fefefe
+}
